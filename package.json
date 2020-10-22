@@ -1,6 +1,6 @@
 {
   "name": "node-genius-api",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "main": "index.js",
   "author": "Lucas LE RAY <lucas.a.leray@gmail.com> (https://lucas-le-ray.com)",
   "license": "MIT",
